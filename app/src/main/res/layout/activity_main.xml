@@ -4,30 +4,5 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"/>
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Add"
-        tools:layout_editor_absoluteX="38dp"
-        tools:layout_editor_absoluteY="198dp" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Update"
-        tools:layout_editor_absoluteX="158dp"
-        tools:layout_editor_absoluteY="198dp" />
-
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Delete"
-        tools:layout_editor_absoluteX="278dp"
-        tools:layout_editor_absoluteY="198dp" />
-
-</androidx.constraintlayout.widget.ConstraintLayout>
